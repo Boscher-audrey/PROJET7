@@ -16,7 +16,7 @@ const Slider = ({ pictures }) => {
     }, 5000);
 
     return () => clearInterval(interval);
-  }, [activeIndex]);
+  }, [activeIndex, picturesLength]);
 
   return (
     <div className='slider_wrapper'>

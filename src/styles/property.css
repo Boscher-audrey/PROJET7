@@ -1,6 +1,6 @@
 .property_collapse_wrapper {
   display: flex;
-  align-items: start;
+  align-items: flex-start;
 }
 
 .property_collapse_container {
