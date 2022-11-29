@@ -3,7 +3,7 @@ import Dropdown from '../assets/dropdown.svg';
 import { useState } from 'react';
 
 const Collapse = ({ title, content }) => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
     <div className={'collapse_wrapper'}>
