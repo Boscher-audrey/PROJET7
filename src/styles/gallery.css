@@ -1,0 +1,9 @@
+.gallery_wrapper {
+  border-radius: 25px;
+  margin-top: 40px;
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: var(--main-bg-color);
+}

@@ -1,0 +1,16 @@
+* {
+  font-family: 'Montserrat', 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: var(--global-font-size);
+}
+body {
+  background-color: white;
+}
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+a:visited {
+  color: currentColor;
+}

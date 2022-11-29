@@ -1,0 +1,8 @@
+:root {
+  --global-font-size: 24px;
+  --tag-font-size: 0.6rem;
+  --text-font-size: 0.75rem;
+  --title-font-size: 1.5rem;
+  --banner-font-size: 1.9rem;
+  --error-font-size: 12rem;
+}

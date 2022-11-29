@@ -1,0 +1,13 @@
+.app_container {
+  min-height: calc(100vh - 263px); /* margin-bottom + footer height */
+  margin-bottom: 50px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  color: var(--primary-color);
+}
+
+.page_wrapper {
+  display: flex;
+  flex-flow: column;
+  padding-top: 170px; /* header height */
+}

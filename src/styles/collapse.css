@@ -1,0 +1,40 @@
+.collapse_wrapper {
+  border-radius: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 74%;
+  max-width: 1023px;
+  background-color: var(--main-bg-color);
+  align-self: center;
+}
+
+.collapse_title_container {
+  list-style-type: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 35px;
+  cursor: pointer;
+  background-color: var(--primary-color);
+}
+
+.collapse_title_container h1 {
+  font-weight: 500;
+  line-height: 34px;
+}
+
+.collapse_content_container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.collapse_content_list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.collapse_dropdown {
+  transform: rotate(180deg);
+}

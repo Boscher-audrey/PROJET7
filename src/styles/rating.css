@@ -1,0 +1,11 @@
+.rating_wrapper {
+  margin-top: 20px;
+}
+
+.rating_star.gray {
+  color: var(--gray-rating);
+}
+
+.rating_star.primary {
+  color: var(--primary-color);
+}

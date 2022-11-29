@@ -1,0 +1,19 @@
+.error_container {
+  padding: 20px;
+  text-align: -webkit-center;
+}
+
+.error_container a {
+  font-size: var(--text-font-size);
+}
+
+h1.error_title {
+  font-size: var(--error-font-size);
+  margin: 0;
+}
+
+h2.error_title {
+  font-size: var(--title-font-size);
+  font-weight: 500;
+  margin-bottom: 180px;
+}

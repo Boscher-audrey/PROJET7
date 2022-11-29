@@ -1,0 +1,18 @@
+.tag_wrapper {
+  background-color: var(--primary-color);
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.tag_title_container {
+  text-align: center;
+  list-style-type: none;
+  color: white;
+  padding: 5px 40px;
+}
+
+.tag_title_container ul {
+  margin: 0;
+  padding: 0;
+  font-size: var(--tag-font-size);
+}

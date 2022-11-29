@@ -1,0 +1,9 @@
+.footer_wrapper {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  position: absolute;
+  width: 100%;
+}
