@@ -44,31 +44,31 @@ Dossier qui contient les fichiers statiques tels que l'index ou les images qui n
 
 Dossier coeur du projet qui contient tous les fichiers nécessaire à l'affichage et au traitement des informations.
 
-#### index.jsx
+- index.jsx
 
 Fichier qui englobe l'application et contient les routes de celle-ci.
 
-#### assets
+- assets
 
 Dossier qui contient les images du projet.
 
-#### pages
+- pages
 
 Dossier qui contient les pages uniques de l'application.
 
-#### components
+- components
 
 Dossier qui contient les composants réutilisables dans les différentes pages de l'application.
 
-#### data
+- data
 
 Dossier qui contient les données brutes au format json.
 
-#### styles
+- styles
 
 Dossier qui contient le style avec une feuille pour chaque page / composant.
 
-#### utils
+- utils
 
 Dossier qui contient les fonctions génériques à l'application.
 Ici j'y ai mis les styles globaux au projet.
