@@ -4,6 +4,18 @@ Ce projet a été réalisé avec [Create React App](https://github.com/facebook/
 
 ## Visuels du projet fini
 
+- Accueil
+  ![Home](https://github.com/Boscher-audrey/PROJET7/blob/master/public/README/Home.jpg?raw=true)
+
+- A propos
+  ![About](https://github.com/Boscher-audrey/PROJET7/blob/master/public/README/About.png?raw=true)
+
+- Propriété
+  ![Property](https://github.com/Boscher-audrey/PROJET7/blob/master/public/README/Property.png?raw=true)
+
+- Erreur
+  ![Error](https://github.com/Boscher-audrey/PROJET7/blob/master/public/README/Error.png?raw=true)
+
 ## Lancement du projet
 
 Pour lancer le projet, il vous faudra cloner ce repo sur votre machine locale en cliquant sur le bouton <> Code et de copier la ligne de code - proposée selon l'option choisie (HTTPS / SSH / GitHub Cli) - dans votre terminal.
